@@ -1,5 +1,3 @@
-// Challenge 2:
-
 // space, scary, military, romantic, cowboy, fantasy, superhero
 favouriteMovieGenre("space")
 
